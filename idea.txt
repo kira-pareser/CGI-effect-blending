@@ -1,0 +1,21 @@
+Ý tưởng: 
+magic shield: straight finger and zoom
+
+
+XÁC ĐỊNH TAY TRÁI TAY PHẢI
+
+sling ring portal: left hand sign, right hand move, calc speed
+ all black, camera read is hide behind (need signal of correctly handsign)
+ gọi I là trung điểm giữa index_tip và middle_tip, I cách pinky_tip max = SIGNAL
+ start time, change of pos by time = speed
+ 
+timestone: sign to active, selfie_segmentation, reverse background 
+    effect of each signal
+
+    d là đường thẳng nối thump_tip với middle_tip, d tạo với Ox 1 góc alpha, độ lớn của alpha tỉ lệ nghịch với hàm thời gian
+    TI là đoạn thẳng nối thump_tip với index_tip, TI song song với Ox(y = 0) và cách nhau 1 khoảng x' => Show timestone
+
+    cài đặt instant record (set leng =10S)
+    selfie_segmentation để tách bg fg, lưu lại bg trong vòng instant, fg vẫn chạy
+
+    khi signal cuối cùng kích hoạt, bắt đầu xác định TI, sự thay đổi của TI dẫn tới thay đổi bg
